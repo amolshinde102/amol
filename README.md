@@ -1,11 +1,8 @@
-# 🚀 3D Developer Portfolio
+![portfolio](https://github.com/user-attachments/assets/19a2b904-cec3-4e09-a9d4-b190f0169b2a)# 🚀 3D Developer Portfolio
 
 A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
-![3D Portfolio Screenshot] ![Uploading amol portfolio.png…]()
+![3D Portfolio Screenshot] https://github.com/amolshinde102/amol/blob/main/public/assets/amol%20portfolio.png
 
-
-
----
 
 ## 📚 Table of Contents
 
