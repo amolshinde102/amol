@@ -226,17 +226,17 @@ export const myProjects = [
 export const mySocials = [
   {
     name: "WhatsApp",
-    href: "",
+    href: "href="https://wa.me/919767365664?text=Hi%20Amol%2C%20I%27m%20interested%20in%20your%20services.",
     icon: "/assets/socials/whatsApp.svg",
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "https://www.linkedin.com/in/amol-shinde-6b01011b4/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "https://www.instagram.com/amol_shinde102/",
     icon: "/assets/socials/instagram.svg",
   },
 ];
